@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**lewnelson/lewnelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lewis Nelson, I'm a software engineer and I've been writing code for quite a while now.
 
-Here are some ideas to get you started:
+I'm passionate about working on complex problems and building scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to learn more about me, check out my website at [lewnelson.com](https://lewnelson.com).
+
+- [LinkedIn](https://www.linkedin.com/in/lewnelson/)
+- [Get in touch](https://lewnelson.com/contact)
+
+## Tech stack
+
+- TypeScript
+- React
+- Node.js
+- Go
+- SQL
+- Docker
+- Kubernetes
+- Terraform
+- AWS
